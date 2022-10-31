@@ -1,0 +1,15 @@
+.hide {
+    display: none;
+}
+.show {
+    display: block;
+}
+.all_text {
+    display: flex;
+}
+.label_text {
+    padding: 20px;
+}
+.randon_text {
+    padding: 20px;
+}
