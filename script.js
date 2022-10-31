@@ -2,7 +2,7 @@
 
     window.addEventListener('DOMContentLoaded', () => {
 
-        const arrText = ['perfo', 'radio', 'tv', 'closet', 'tractor', 'car', 'wind'],
+        const arrText = ['perfo', 'radio', 'tv', 'pelvis', 'tractor', 'car', 'wind'],
         randomText = document.querySelector('#randon_text');
 
         setInterval(function() {
